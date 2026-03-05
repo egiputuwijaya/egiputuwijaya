@@ -179,7 +179,7 @@ Role : **Backend Developer**
 
 </a>
 
-<a href="www.linkedin.com/in/egi-putu-wijaya">
+<a href="https://linkedin.com/in/egi-putu-wijaya">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
@@ -188,6 +188,12 @@ Role : **Backend Developer**
 <a href="https://github.com/egiputuwijaya">
 
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://egiputuwijaya.my.id">
+
+<img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
