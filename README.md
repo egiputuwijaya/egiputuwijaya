@@ -37,7 +37,7 @@ class Developer {
 
   stack(){
     return [
-"Next.js",
+      "Next.js",
       "Node.js",
       "Laravel",
       "MySQL",
@@ -52,7 +52,7 @@ class Developer {
 
 }
 
-const rahman = new Developer()
+const egi = new Developer()
 ```
 
 🎯 **Current Focus**
@@ -139,7 +139,7 @@ Role : **Backend Developer**
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erxanz&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=egiputuwijaya&theme=tokyo-night"/>
 
 </p>
 
