@@ -125,7 +125,7 @@ Role : **Backend Developer**
 
 ---
 
-# 🔥 GitHub Streak
+
 
 <p align="center">
 
@@ -135,7 +135,7 @@ Role : **Backend Developer**
 
 ---
 
-# 📈 Contribution Graph
+
 
 <p align="center">
 
@@ -145,7 +145,6 @@ Role : **Backend Developer**
 
 ---
 
-# 🐍 Contribution Snake Animation
 
 <p align="center">
 
